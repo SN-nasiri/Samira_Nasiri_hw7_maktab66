@@ -1,13 +1,4 @@
-// function University( ) {
-//     this.className = 'softEngineering';
-//     this.classUnit = 3;
-//     this.classCapacity = 50 ;
-// }
-// var softEngineering = new University();
-// console.log(softEngineering , network);
-
-
-function University(className,classUnit,classCapacity ,project) {
+function University(className, classUnit, classCapacity, project) {
     this.className = className;
     this.classUnit = classUnit;
     this.classCapacity = classCapacity ;
